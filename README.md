@@ -22,7 +22,7 @@
 ### 🧰 Tech stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,fastify,graphql,tailwind&perline=8" alt="Frontend and backend stack" /><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,bun,graphql,tailwind&perline=8" alt="Frontend and backend stack" /><br/>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,docker,python,vercel,git,vite&perline=8" alt="Data and tooling stack" />
 </p>
 
