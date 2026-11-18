@@ -45,10 +45,9 @@
 | 🧾 **[POS](https://github.com/AHNayeem/pos)** | Point-of-sale and business dashboard with charts, calendar and inventory views | Next.js, TypeScript, Zustand, ApexCharts |
 | 🗓️ **[Leave MS](https://github.com/AHNayeem/leave-ms)** · [Live](https://leave-ms-nine.vercel.app) | Employee leave management system with authentication and approval flow | Next.js, MongoDB, shadcn/ui, JWT |
 
-### 📊 GitHub stats
+### 📊 Most used languages
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AHNayeem&show_icons=true&hide_border=true&theme=transparent&count_private=true" alt="AH Nayeem's GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHNayeem&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
 </p>
 
